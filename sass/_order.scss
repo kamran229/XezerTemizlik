@@ -1,0 +1,45 @@
+#order{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-weight: 600;
+          font-size: 50px;
+        }
+      }
+      .col-md-8{
+        .bookHeader{
+          padding: 20px 30px;
+          border: 1px solid #e6e9ec;
+          box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+          h2{
+            font-size: 22px;
+            font-weight: 600;
+            color: #4b5b68;
+          }
+        }
+        .bookMain{
+          border: 1px solid #e6e9ec;
+          box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+          padding:40px 20px;
+        }
+        .bookCategory{
+          padding: 20px 30px;
+          border: 1px solid #e6e9ec;
+          select{
+            width: 100%;
+            padding: 10px 20px;
+            border: 1px solid #d7dbdf;
+          }
+        }
+        .bookNow{
+          padding: 40px 30px;
+          border: 1px solid #e6e9ec;
+          button{
+            margin-top: 30px;
+          }
+        }
+      }
+    }
+  }
+}

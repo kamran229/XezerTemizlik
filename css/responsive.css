@@ -1,0 +1,639 @@
+/* ----------------------HOME RESPONSIVE------------------ */
+@media only screen and (max-width: 1024px) {
+  #NavBar
+    .container .row .pageInfo1 p{
+      font-size: 1.1em;
+    }
+}
+@media only screen and (max-width: 1024px) {
+  #NavBar
+    .container .row .pageInfo2 p{
+      font-size: 1em;
+    }
+}
+@media only screen and (max-width: 1024px) {
+  #NavBar
+    .container .row .phoneInfo span{
+      font-size: 0.93em;
+    }
+}
+@media only screen and (max-width: 1024px) {
+  #NavBar .NavMenuHeader .container .navbar-nav li{
+      font-size: 0.92em;
+    }
+}
+/* ----------------------Carousel --------------------------*/
+@media only screen and (max-width: 1024px) {
+  #carousel .container-fluid .row .owl-text-overlay .hh1{
+    font-size: 2.8em;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .hh2{
+    font-size: 2.8em;
+    left: 16%;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .hh3{
+    font-size: 2.8em;
+    left: 16%;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .btn{
+    left: 41.5%;
+  }
+
+}
+@media only screen and (max-width: 768px) {
+  #carousel .container-fluid .row .owl-text-overlay .hh1{
+    font-size: 1.8em;
+    left: 27.8%;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .hh2{
+    font-size: 1.8em;
+    left: 20%;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .hh3{
+    font-size: 1.8em;
+    left: 20%;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .btn{
+    left: 38.5%;
+  }
+
+}
+@media only screen and (max-width: 425px) {
+  #carousel .container-fluid .row .owl-text-overlay .hh1{
+    font-size: 1em;
+    left: 27.8%;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .hh2{
+    font-size: 1em;
+    left: 20%;
+  }
+  #carousel .container-fluid .row .owl-text-overlay .hh3{
+    font-size: 1em;
+    left: 20%;
+  }
+
+}
+/* ----------------------Services--------------------------*/
+@media only screen and (max-width: 1024px) {
+  #circleItem .container-fluid .row .circleWrapper{
+    height: 200px !important;
+  }
+  #circleItem .container-fluid .row .circleWrapper .xezer1{
+    width: 330px;
+    left: -9.5% !important;
+    top: 35% !important;
+  }
+  #circleItem .container-fluid .row .circleWrapper .xezer2{
+    width: 250px;
+    left: 29% !important;
+    top: 18% !important;
+  }
+  #circleItem .container-fluid .row .circleWrapper .xezer3{
+    width: 130px;
+    left: 33% !important;
+    top: 83% !important;
+  }
+  #circleItem .container-fluid .row .circleWrapper .xezer4{
+    width: 280px;
+    left: 48% !important;
+    top: 50% !important;
+  }
+  #circleItem .container-fluid .row .circleWrapper .xezer5{
+    width: 250px;
+    right:5% !important;
+  }
+  #servicesIn .container-fluid .row .servicesInBg{
+    background-image: none;
+  }
+  #servicesIn .container-fluid .row .servicesInBg{
+    text-align: center;
+  }
+  #calendar .container .row .col-md-12 .row .col-md-6 h3{
+    font-size: 22px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon1 .cuponSale h2{
+      font-size: 24px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon1 .cupontext1 p{
+      font-size: 14px;
+      margin-left: 15px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon1 .cuponLent{
+      height: 70px;
+      width: 310px;
+      right: 8px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon1 .cuponLentText h1{
+      font-size: 20px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon1 .cuponLentText{
+    top: 61%;
+    right: 20%;
+  }
+  #ourcupon .container .row .col-md-6 .cupon1 .cuponLentDate{
+    right: 10%;
+  }
+  #ourcupon .container .row .col-md-6 .cupon2 .cuponSale h2{
+      font-size: 24px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon2 .cupontext1 p{
+      font-size: 14px;
+      margin-left: 15px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon2 .cuponLent{
+      height: 70px;
+      width: 310px;
+      right: 9px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon2 .cuponLentText h1{
+      font-size: 20px;
+  }
+  #ourcupon .container .row .col-md-6 .cupon2 .cuponLentText{
+    top: 61%;
+    right: 20%;
+  }
+  #ourcupon .container .row .col-md-6 .cupon2 .cuponLentDate{
+    right: 10%;
+  }
+  #footer .container .row .col-md-3 .footerSocial ul a li{
+    width: 40px;
+    height: 40px
+  }
+  #footer .container .row .col-md-3 .footerSocial ul a li i{
+    line-height: 40px;
+  }
+
+}
+/*------------------------------ 768 Screen------------------------------ */
+@media only screen and (max-width: 768px) {
+  #NavBar .NavMenuHeader .container .navbar-nav li{
+    padding: 0px 8px;
+    margin-right: 0px;
+  }
+  #NavBar .container .row img{
+      margin-top: 12px;
+    }
+    /* Circle Item */
+    #circleItem .container-fluid .row .circleWrapper{
+      height: 400px !important;
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer1{
+      min-width: 175px;
+      width: 38%;
+      left: 0% !important;
+      top: 55% !important;
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer1 .xezerItem1{
+      top: 50% !important;
+
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer2 .xezerItem2{
+      top: 10% !important;
+
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer4 .xezerItem4{
+      top: 50% !important;
+
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer5 .xezerItem5{
+      top: 10% !important;
+      left: -30% !important;
+
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer1 .xezerItem1 img{
+      height: 110px !important;
+      width: 110px !important;
+
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer2{
+      left: 22% !important;
+      top: 15% !important;
+      width: 30%;
+      min-width: 135px
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer2 .xezerItem2 img{
+      height: 110px !important;
+      width: 110px !important;
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer4{
+      width: 280px;
+      left: 48% !important;
+      top: 50% !important;
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer4{
+      width: 36%;
+      min-width: 170px;
+      left: 50% !important;
+      top: 57% !important;
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer4 .xezerItem4 img{
+      height: 110px !important;
+      width: 110px !important;
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer5{
+      right: 33px !important;
+      top: 15%;
+      left: auto;
+      width: 30%;
+      min-width: 145px;
+    }
+    #circleItem .container-fluid .row .circleWrapper .xezer5 .xezerItem5 img{
+      height: 110px !important;
+      width: 110px !important;
+    }
+    /* Our CUpon */
+    #ourcupon .container .row .col-md-6 .cupon1 .cuponSale h2{
+        font-size: 20px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon1 .cupontext1{
+      top: 39%;
+    }
+    #ourcupon .container .row .col-md-6 .cupon1 .cupontext1 p{
+        font-size: 12px;
+        margin-left: 15px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon1 .cuponLent{
+        height: 70px;
+        width: 250px;
+        right: 4px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon1 .cuponLentText h1{
+        font-size: 20px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon1 .cuponLentText{
+      top: 61%;
+      right: 20%;
+    }
+    #ourcupon .container .row .col-md-6 .cupon1 .cuponLentDate{
+      right: 10%;
+    }
+    #ourcupon .container .row .col-md-6 .cupon1 .cuponLentDate h4{
+      font-size: 16px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cuponSale h2{
+        font-size: 20px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cupontext1{
+      top: 39%;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cupontext1 p{
+        font-size: 12px;
+        margin-left: 15px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cuponLent{
+        height: 70px;
+        width: 250px;
+        right: 3px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cuponLentText h1{
+        font-size: 20px;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cuponLentText{
+      top: 61%;
+      right: 20%;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cuponLentDate{
+      right: 10%;
+    }
+    #ourcupon .container .row .col-md-6 .cupon2 .cuponLentDate h4{
+      font-size: 16px;
+    }
+    #footerMenu .container-fluid .container .row .col-md-12{
+      display: none;
+    }
+    #footerMenu .container-fluid{
+      height: 4px;
+    }
+}
+/*-------------- ABOUT RESPONSIVE------------- */
+@media only screen and (max-width: 1024px){
+  #about .container-fluid .row .col-md-6 img{
+    margin-top: 80px;
+  }
+  #about .container-fluid .row .col-md-6 .aboutTextright h3{
+    font-size: 26px;
+  }
+  #about .container-fluid .call h2{
+    margin-top: 25px;
+  }
+  #ourvaule .container .row .col-md-6 img{
+    margin-top: 70px;
+  }
+  #historyCompany .container .guaranteed .col-lg-8 p{
+    font-size: 15px;
+  }
+  #historyCompany .container .guaranteed .col-lg-8 h1{
+    font-size: 35px;
+  }
+  #historyCompany .container .guaranteed .col-lg-4 img{
+    margin-top: -82px;
+  }
+  #discounts .container .row .col-md-4 p{
+    font-size: 19px;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  #about .container-fluid .call h2{
+    font-size: 26px;
+  }
+  #about .container-fluid .call .col-md-4 .btn{
+    margin-top: 45px;
+  }
+  #hireUs .container .row .col-md-4 h4{
+    font-size: 16px;
+  }
+  #hireUs .container .row .col-md-4 p{
+    font-size: 14px;
+  }
+  #services1 .container .row .col-md-4 h3{
+    font-size: 20px;
+  }
+  #additionalServices .container .row .col-md-3 ul li i{
+    font-size: 14px;
+  }
+  #additionalServices .container .row .col-md-3 ul li{
+    font-size: 12px;
+  }
+  #discounts .container .row .col-md-4 .discountItem1{
+    padding: 25px 25px;
+  }
+  #discounts .container .row .col-md-4 .discountItem2{
+    padding: 25px 25px;
+  }
+  #discounts .container .row .col-md-4 .discountItem3{
+    padding: 25px 25px;
+  }
+  #discounts .container .row .col-md-4 h1{
+    font-size: 25px;
+  }
+  #discounts .container .row .col-md-4 p{
+    font-size: 16px;
+  }
+  #apartmant .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #apartmant .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #apartmant .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #apartmant .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #apartmant .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #house .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #house .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #house .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #house .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #house .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #move .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #move .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #move .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #move .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #move .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #carpet .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #carpet .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #carpet .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #carpet .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #carpet .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #renovation .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #renovation .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #renovation .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #renovation .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #renovation .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #curtain .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #curtain .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #curtain .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #curtain .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #curtain .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #windows .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #windows .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #windows .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #windows .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #windows .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #commercial .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #commercial .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #commercial .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #commercial .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #commercial .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+  #residental .container .row .col-md-3 ul a li{
+    font-size: 13px;
+    padding: 5px 0 5px 18px;
+  }
+  #residental .container .row .col-md-3 .questionBox h1{
+    font-size: 23px;
+  }
+  #residental .container .row .col-md-8 .row .col-md-4{
+    padding: 20px 10px;
+  }
+  #residental .container .row .col-md-8 .row .col-md-4 span{
+    font-size: 16px;
+  }
+  #residental .container .row .col-md-8 .row .col-md-4 p{
+    font-size: 17px;
+  }
+   .btn{
+    padding: .35rem 1.1rem
+  }
+}
+@media only screen and (max-width: 425px){
+  #footer .container .row .col-lg-3 .footercontact h1{
+    margin-top: 10px;
+  }
+  #footer .container .row .col-lg-3 .footerDay{
+    margin-top: 10px;
+  }
+    #footer .container .row .col-lg-3 .footerSocial ul{
+      margin-top: 10px;
+    }
+
+}
+
+
+
+
+
+/*----------------------------- Fags ----------------------------- */
+@media only screen and (max-width: 768px){
+
+  #fags .container .row .col-md-12 .accordion:after{
+    padding: 10px 15px;
+
+  }
+  #fags .container .row .col-md-12 .accordion{
+    padding: 5px;
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 425px){
+  #fags .container .row .col-md-12 .accordion{
+    font-size: 13px;
+  }
+  #fags .container .row .col-md-12 p{
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 320px){
+  #fags .container .row .col-md-12 .accordion:after{
+    padding: 6px 8px;
+  }
+  #fags .container .row .col-md-12 h1{
+    font-size: 35px;
+  }
+  #fags .container .row .col-md-12 .accordion{
+    font-size: 10px;
+  }
+}
+/*----------------------------- Blog ----------------------------- */
+@media only screen and (max-width: 768px){
+  #blogPage .container .row .col-md-3 h3{
+    font-size: 22px;
+  }
+  #blogPage .container .row .col-md-3 .featuresPost a{
+    font-size: 20px;
+  }
+}
+/*----------------------------- Testimonals ----------------------------- */
+@media only screen and (max-width: 425px){
+  #testimonalsItem .container-fluid .container .row .owl-carousel .col-md-12 .row .col-md-4 img{
+    margin: 0 auto;
+  }
+  #testimonalsItem .container .row .col-md-12 h1{
+    font-size: 30px;
+  }
+  #testimonalsItem .container .row .col-md-12 p{
+    margin-top: 40px;
+  }
+  #testimonalsItem .container-fluid .container .row .owl-carousel .col-md-12 .row .col-md-8 h2{
+    font-size: 20px;
+  }
+}
+
+/*----------------------------- Contact ----------------------------- */
+@media only screen and (max-width: 768px){
+  #getTouch .container .contactsItem ul li{
+    font-size: 15px;
+  }
+  #getTouch .container .contactsItem .col-md-4{
+    padding: 0px;
+  }
+}
+@media only screen and (max-width: 425px){
+  #getTouch .container .contactsItem ul li{
+    font-size: 13px;
+  }
+  #getTouch .container .contactsItem .col-md-4 .adress1 .adressSocial ul li{
+    width: 40px;
+    height: 40px;
+  }
+  #getTouch .container .contactsItem .col-md-4 .adress1 .adressSocial ul li a i{
+    line-height: 40px;
+    font-size: 20px;
+  }
+  #getTouch .container .contactsItem .col-md-4:first-child{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  #getTouch .container .contactsItem .col-md-4:nth-child(2){
+    padding: 25px 35px 10px;
+  }
+  #getTouch .container .contactsItem .col-md-4:last-child{
+    padding: 25px 35px 10px;
+  }
+  #getTouch .container .contactsItem .col-md-4 h4{
+    margin: 0px;
+  }
+  #getTouch .container .contactsItem .col-md-2 i{
+    font-size: 2em;
+  }
+}
+@media only screen and (max-width: 320px){
+  #contactPage .container-fluid .row .col-md-12 h1{
+    font-size: 35px;
+  }
+  #getTouch .container .row .col-lg-8 .ContactsHeader h1{
+    font-size: 35px;
+  }
+}

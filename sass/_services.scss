@@ -1,0 +1,164 @@
+#services1{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: bold;
+        }
+        p{
+          margin-top: 20px;
+        }
+      }
+      .col-md-4{
+        margin-top: 50px;
+        h3{
+          color: #4b5b68;
+          font-weight: bold;
+          margin-top: 22px;
+        }
+        p{
+          color: #4b5b68;
+          margin-top: 22px;
+        }
+        a{
+          text-decoration: none;
+          color: #6fbf52;
+        }
+      }
+      .servicesCallCenter{
+         background-image: -webkit-linear-gradient(left, #48b0da, #499fe5);
+         padding: 37px 25px;
+         font-size: 36px;
+         line-height: 46px;
+         color: #fff;
+      }
+    }
+  }
+}
+///////////////////////AdditionalServices//////////////////////////////////////////
+#additionalServices{
+  margin-top: 100px;
+  background: url(../images/services/block-bg-4.jpg);
+  background-size: cover;
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: bold;
+        }
+      }
+      .col-md-3{
+        ul{
+          li{
+            list-style: none;
+            font-size: 16px;
+            line-height: 28px;
+            font-weight: 500;
+            margin-bottom: 10px;
+            color: #677d8f;
+            i{
+              font-size: 20px;
+              margin-right: 10px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+///////////Discounts///////////////////////////////
+#discounts{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: bold;
+        }
+        p{
+          margin-top: 20px;
+        }
+      }
+      .col-md-4{
+          color: white;
+
+          h1{
+            font-size: 36px;
+            font-weight: bold;
+          }
+          p{
+            font-size: 24px;
+          }
+        .discountItem1{
+            padding: 50px 50px;
+            background-color: #7bd6c5;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+        .discountItem2{
+            padding: 50px 50px;
+            background-color: #6dd0f0;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+        .discountItem3{
+            padding: 50px 50px;
+            background-color: #4ba0e8;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+      }
+    }
+  }
+}
+///////////////ourPriceTable///////////////////
+#ourPriceTable{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: bold;
+        }
+        p{
+          margin-top: 20px;
+        }
+      }
+      .col-md-3{
+          padding: 0px;
+        .kkm{
+          border: 1px solid #e6e9ec;
+          padding: 0px;
+
+          .kk1{
+            border-bottom:2px solid #e6e9ec;padding: 20px 0;
+            h1{
+              font-size: 25px;
+              font-weight: 600;
+            }
+          }
+          .kk2{
+            border-top:1px solid #e6e9ec;
+            border-bottom:1px solid #e6e9ec;padding: 20px 0;
+          }
+          .kk3{
+            border-bottom:1px solid #e6e9ec;padding: 20px 0;
+          }
+          .kk4{
+            border-bottom:1px solid #e6e9ec;padding: 20px 0;
+          }
+          .kk5{
+            padding: 20px 0;
+            button{
+              border-radius: 50px;
+              &:hover{
+                background-color: #6fbf52;
+                color: white;
+                border: none;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

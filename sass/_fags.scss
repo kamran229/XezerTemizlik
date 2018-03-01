@@ -1,0 +1,58 @@
+#fags{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+        }
+        p{
+          margin-top: 20px;
+        }
+        h2{
+          margin-top: 20px;
+          font-weight: bold;
+        }
+            .accordion {
+            color: #6fbf52;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 25px;
+            transition: 0.4s;
+            margin: 20px 0px;
+        }
+
+        .active, .accordion:hover {
+            color: #4ba0e8;
+        }
+
+        .accordion:after {
+            content: '\002B';
+            color: #6fbf52;
+            font-weight: bold;
+            float: left;
+            margin-right: 10px;
+            border: 2px solid #6fbf52;
+            padding: 10px 20px;
+            border-radius: 50%;
+            margin-top: -10px;
+        }
+
+        .active:after {
+            content: "\2212";
+        }
+
+        .panel {
+            padding: 0 18px;
+            background-color: white;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,223 @@
+#about{
+  .container-fluid{
+    .aboutBg{
+      background-color:#f5f5f5;
+
+    }
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: 600;
+        }
+      }
+      .col-lg-6{
+        padding:0px;
+        .aboutTextright{
+          padding: 30px 30px 10px 40px;
+          h3{
+            color: #4b5b68;
+            font-size:30px;
+            font-weight: 600;
+          }
+          p{
+            margin-top: 35px;
+            font-size: 16px;
+            color: #677d8f;
+          }
+        }
+      }
+    }
+    .container{
+      padding: 100px 0px;
+      .row{
+        .col-md-6{
+          .row{
+            padding-top: 30px;
+          }
+        }
+      }
+    }
+    .call{
+      background-image:linear-gradient(90deg, #46c6cf, #62c699);
+      height: 160px;
+      h2{
+        margin-top: 50px;
+        color: white;
+      }
+      .col-md-4{
+        .btn{
+          background-color: white;
+          border-radius: 30px;
+          margin-top: 60px;
+          .fa{
+            color: #6fbf52;
+          }
+          &:hover{
+            background-color: #6fbf52;
+            color: white;
+            .fa{
+              color: white;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+#ourteam{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: 600;
+        }
+        img{
+          padding-bottom: 40px;
+        }
+      }
+      .col-md-4{
+        h2{
+          color: #4b5b68;
+          font-size: 25px;
+          margin-top: 25px;
+        }
+        h3{
+          color: #677d8f;
+          font-size: 20px;
+        }
+        .line{
+          height: 2px;
+          width: 35px;
+          background-color: #6fbf52;
+          margin: 15px auto
+        }
+        p{
+          color: #677d8f;
+        }
+      }
+    }
+  }
+}
+#ourvaule{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: 600;
+        }
+        img{
+          padding-bottom: 40px;
+        }
+      }
+      .col-lg-6{
+        .vauleText1{
+          padding: 0px 0px 0px 10px;
+          p{
+            color: #677d8f;
+            font-size: 15px;
+            i{
+              margin-right: 10px;
+
+            }
+            span{
+              color: #677d8f;
+              font-size: 18px;
+              font-weight: 600;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+#historyCompany{
+  .container{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: 600;
+        }
+        img{
+          padding-bottom: 40px;
+        }
+        h2{
+          color: #4b5b68;
+          font-size: 20px;
+          font-weight: 600;
+          margin-top: 20px;
+        }
+        p{
+          color: #4b5b68;
+          font-size: 16px;
+        
+        }
+        h3{
+          color: #4b5b68;
+          font-size: 20px;
+          margin-top: 20px;
+          font-weight: 600;
+          border-top: 1px solid #6fbf52;
+          border-bottom: 1px solid #6fbf52;
+          padding: 20px 0px;
+
+        }
+      }
+    }
+    .guaranteed{
+      margin-top: 180px;
+      height: 200px;
+      background-color: #4ba0e8;
+      .col-lg-4{
+        img{
+          margin-top: -135px;
+          margin-left: -10px;
+        }
+      }
+      .col-lg-8{
+        h1{
+          color: white;
+          margin-top: 15px;
+        }
+        p{
+          color: white;
+        }
+      }
+    }
+  }
+}
+#hireUs{
+  .container{
+    .row{
+      .col-md-12{
+        p{
+          margin-top: 20px;
+        }
+      }
+      .col-md-4{
+        span i{
+          width:110px;
+          height:110px;
+          border-radius: 100%;
+          background-color:#f6f6f7;
+          line-height: 110px;
+        }
+        h4{
+          font-size: 20px;
+          font-weight: 600;
+          margin-top: 15px;
+          color: #4b5b68;
+        }
+        p{
+          font-size: 16px;
+          margin-top: 15px;
+          color: #4b5b68;
+        }
+        padding-bottom: 50px;
+      }
+    }
+  }
+}

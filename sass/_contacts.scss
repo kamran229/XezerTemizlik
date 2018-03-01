@@ -1,0 +1,197 @@
+#contactPage{
+  .container-fluid{
+    .row{
+      .col-md-12{
+        h1{
+          font-size: 50px;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}
+#getTouch{
+  .container{
+    .row{
+      .col-lg-4{
+        .officeInfo{
+            h2{
+              font-size: 36px;
+              font-weight: 600;
+              margin-top: 70px;
+              color: #4b5b68;
+            }
+        }
+        .officeAdress{
+          h5{
+            margin-top: 30px;
+            color: #4b5b68;
+            span{
+                font-weight: bold;
+            }
+            i{
+              font-size: 26px;
+            }
+          }
+
+        }
+        .officePhone{
+          h5{
+            margin-top: 30px;
+            color: #4b5b68;
+            span{
+                font-weight: bold;
+            }
+            i{
+              font-size: 26px;
+            }
+          }
+        }
+        .officeOperation{
+          h5{
+            margin-top: 30px;
+            color: #4b5b68;
+            span{
+                font-weight: bold;
+            }
+            i{
+              font-size: 26px;
+            }
+          }
+        }
+        .officeSocialLink{
+          h5{
+            color: #4b5b68;
+            font-weight: bold;
+            margin-top: 30px;
+          }
+          ul{
+            margin-top: 20px;
+            li{
+              list-style: none;
+              float: left;
+              width: 45px;
+              height: 45px;
+              border-radius: 100%;
+              background: #677d8f;
+              margin-right: 2px;
+              a{
+                i{
+                  color: white;
+                  line-height: 45px;
+                  font-size: 25px;
+                  margin: 0;
+                }
+              }
+
+            }
+          }
+        }
+      }
+      .col-lg-8{
+        .ContactsHeader{
+          h1{
+            font-size: 50px;
+            font-weight: bold;
+          }
+        }
+        .contactFormMain{
+          .col-md-12{
+            .btn{
+              color: #ffffff;
+              background-color: #4ba0e8;
+              border-radius: 50px;
+            }
+          }
+        }
+      }
+    }
+    .contactsItem{
+      h6{
+        color: #4b5b68;
+        font-weight: bold;
+      }
+      ul{
+        color: #4b5b68;
+        padding: 0;
+        li{
+          list-style: none;
+          font-size: 18px;
+          margin-bottom: 15px;
+          i{
+            margin-right: 10px;
+          }
+        }
+      }
+      .col-md-4{
+        &:first-child{
+          background: none;
+        }
+        background-color: #f6f6f7;
+        padding: 0px 40px;
+        h4{
+          color: #4b5b68;
+          font-weight: bold;
+          margin: 40px 30px 30px;
+        }
+
+        .adress1{
+          i{
+            display: block;
+          }
+          .adressSocial{
+            ul{
+              margin-top: 20px;
+              li{
+                list-style: none;
+                float: left;
+                width: 45px;
+                height: 45px;
+                border-radius: 100%;
+                background: #677d8f;
+                margin-right: 2px;
+                a{
+                  i{
+                    color: white;
+                    line-height: 45px;
+                    font-size: 25px;
+                    margin: 0;
+                  }
+                }
+
+              }
+            }
+          }
+        }
+        .adress2{
+          i{
+            display: block;
+          }
+          .adressSocial{
+            ul{
+              margin-top: 20px;
+              li{
+                list-style: none;
+                float: left;
+                width: 45px;
+                height: 45px;
+                border-radius: 100%;
+                background: #677d8f;
+                margin-right: 2px;
+                a{
+                  i{
+                    color: white;
+                    line-height: 45px;
+                    font-size: 25px;
+                    margin: 0;
+                  }
+                }
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
